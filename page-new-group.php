@@ -1,7 +1,5 @@
 <?php
-/*
- Template Name: Group
-*/
+    /* Template Name: Group */
 ?>
 
 <?php get_header(); ?>
