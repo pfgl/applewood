@@ -847,6 +847,12 @@ Stylesheet: Layout Stylesheet
       width: 98%;
       margin: 1%; } }
 
+.subsidary-statement {
+  float: left;
+  width: 98%;
+  margin-left: 1%;
+  margin-right: 1%; }
+
 /******************************************************************
 Site Name:
 Author:
@@ -2266,6 +2272,9 @@ FOOTER STYLES
   clear: both;
   background-color: #999;
   color: #f8f9fa; }
+
+.subsidary-statement {
+  background-color: #898989; }
 
 /*
 	if you checked out the link above:
