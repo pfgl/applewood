@@ -2205,8 +2205,8 @@ SIDEBARS & ASIDES
 
 .tab {
   color: #fff;
-  text-shadow: 0 -1px 1px #811014;
-  background: #d01448;
+  text-shadow: 0 -1px 1px;
+  background: #811014;
   border-radius: 5px;
   -moz-border-radius: 5px;
   -webkit-border-radius: 5px;
