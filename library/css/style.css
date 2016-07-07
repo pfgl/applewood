@@ -694,6 +694,11 @@ Stylesheet: Layout Stylesheet
     display: table;
     clear: both; }
 
+.team-member:after {
+  content: "";
+  display: table;
+  clear: both; }
+
 #inner-header {
   float: left;
   width: 100%;

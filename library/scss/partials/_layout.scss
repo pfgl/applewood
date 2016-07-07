@@ -17,6 +17,10 @@ Stylesheet: Layout Stylesheet
 	width: 100%;
 }
 
+
+.team-member {
+    @include clearfix;
+}
 #container {}
 
   .header {}
