@@ -1222,7 +1222,7 @@ SIDEBARS & ASIDES
 
 .tab {
     color: #fff;
-    text-shadow: 0 -1px 1px #830d2d;
+    text-shadow: 0 -1px 1px #811014;
 
     background: #d01448;
     border-radius: 5px;
@@ -1294,15 +1294,16 @@ SIDEBARS & ASIDES
 #sidebar-testimonial {
     background: url(http://www.pfgl.co.uk/development/wp-content/themes/pfgl/library/images/happy-clients.png) no-repeat center;
 }
-.testimonial {
-    font-style: italic;
-    font-size: 0.75em;
-    display: none;
-}
 
-.current {
-    display: block;
-}
+    .testimonial {
+        font-style: italic;
+        font-size: 0.75em;
+        display: none;
+    }
+
+    .current {
+        display: block;
+    }
 
 /*********************
 FOOTER STYLES
